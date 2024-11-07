@@ -7,6 +7,13 @@ import { createUserWithEmailAndPassword, signInWithEmailAndPassword, getAuth, si
 import axios from 'axios';
 
 
+
+// Nomes: 
+// Bruno Ciccio RM 99097
+// Kauan Guerreiro RM 99891
+// Kelvin Gomes RM 98126
+// Leonardo Seiti RM 550207
+
 const firebaseConfig = {
   apiKey: "AIzaSyD75I6WDNsIPGeShQqxWLCFN5eduAXqGv4",
   authDomain: "cp6-6c245.firebaseapp.com",
